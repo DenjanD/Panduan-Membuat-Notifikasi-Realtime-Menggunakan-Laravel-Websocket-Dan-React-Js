@@ -7,5 +7,3 @@ Chapter 2 : Contoh Penggunaan Laravel Echo & Push JS
 Chapter 3 : Pembuatan Aplikasi
 
 MIT
-
-https://github.com/DenjanD
